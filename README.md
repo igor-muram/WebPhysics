@@ -49,7 +49,7 @@ Some screenshots are shown below.
 
 ## Interface
 
-![image](https://user-images.githubusercontent.com/54866075/126534997-eea8c3b4-141f-4062-8b1f-f5effb1147d5.png)   ![image](https://user-images.githubusercontent.com/54866075/126535130-4952695a-e1b1-4d2b-bc29-97ed82b3c123.png)
+![image](https://user-images.githubusercontent.com/54866075/126534997-eea8c3b4-141f-4062-8b1f-f5effb1147d5.png) ![image](https://user-images.githubusercontent.com/54866075/126535130-4952695a-e1b1-4d2b-bc29-97ed82b3c123.png)
 
 ## Model
 
