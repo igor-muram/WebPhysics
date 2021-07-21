@@ -4,6 +4,8 @@ Virtual physical laboratory with modeling and three-dimensional dynamic visualiz
 
 <p>View a <a href="https://golab.nstu.ru" target="_blank">demo</a>.</p>
 
+The application was developed in another <a href="https://github.com/FatalRuntimeError/WebPhysics" target="_blank">repository</a>.
+
 ## Desktop version as a basis
 
 <ul>
