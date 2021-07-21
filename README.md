@@ -20,9 +20,12 @@ Virtual physical laboratory with modeling and three-dimensional dynamic visualiz
 <li>The Go-Lab publication is available <a href="https://www.golabz.eu/lab/modeling-of-gyroscope-precession-and-nutation" target="_blank">here</a>.</li>
 </ul>
 	
-## Publication in Journal of Physics
+## Publications in Journals
 
-A <a href="https://iopscience.iop.org/article/10.1088/1742-6596/1488/1/012005/pdf" target="_blank">scientific article</a> was written on this web application for an English-language journal indexed in Scopus.
+<ul>
+	<li>A <a href="https://iopscience.iop.org/article/10.1088/1742-6596/1488/1/012005/pdf" target="_blank">scientific article</a> was written on <b><i>this web application</i></b> for an English-language journal indexed in Scopus (Journal of Physics).</li>
+	<li>Another <a href="https://storage.tusur.ru/files/131947/essu-19-part-2.pdf#page=171" target="_blank">scientific article</a> was written on <b><i>desktop version</i></b> of this app for an journal indexed in RSCI (Russian Science Citation Index).</li>
+</ul>
 
 ## Technologies
 
