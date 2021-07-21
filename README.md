@@ -1,4 +1,4 @@
-# Web Physics
+# Web version of virtual physical laboratory
 
 Virtual physical laboratory with modeling and three-dimensional dynamic visualization of precession and nutation of gyroscope in real-time, created using web-technologies.
 
