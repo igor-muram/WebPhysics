@@ -62,5 +62,4 @@ Some screenshots are shown below.
 
 ## Model
 
-![image 1](https://user-images.githubusercontent.com/54866075/126538285-97ee8bb4-37ea-493f-b9e0-556ae8711016.png)
-
+![Group 69](https://user-images.githubusercontent.com/54866075/126878365-25b58cc7-3033-42c2-a488-02d5f6e3c5bf.png)
