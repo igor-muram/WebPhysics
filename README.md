@@ -46,6 +46,10 @@ The application was developed in another <a href="https://github.com/FatalRuntim
 	<li><a href="https://sass-scss.ru" target="_blank">Sass Preprocessor</a></li>
 </ul>
 
+## Adaptivity
+
+![image](https://user-images.githubusercontent.com/54866075/126881540-53f5c77b-a886-4b19-9246-3b180ab3e757.png)
+
 Some screenshots are shown below.
 
 ## Main window
