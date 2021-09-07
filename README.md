@@ -48,9 +48,21 @@ Some screenshots are shown below.
 
 ![image](https://user-images.githubusercontent.com/54866075/126534518-b5ac392e-8f2a-44e1-8e16-30dd3ddded27.png)
 
+![image](https://user-images.githubusercontent.com/54866075/132311615-66409a38-9b78-49b5-acf5-260889237e80.png)
+
 ## Main window with popup windows
 
 ![image](https://user-images.githubusercontent.com/54866075/126536337-4c56e84f-55b3-4722-b3ec-95bef2d808c2.png)
+
+## Popup windows
+
+![image](https://user-images.githubusercontent.com/54866075/132310443-08f0bbcc-9479-433e-8281-df070e414556.png)
+
+![image](https://user-images.githubusercontent.com/54866075/132310529-460b1ee3-8336-47a7-8af6-142beaf5a72d.png)
+
+![image](https://user-images.githubusercontent.com/54866075/132310880-2fe58cae-20a8-4b08-b23b-adc272df14d8.png)
+
+![image](https://user-images.githubusercontent.com/54866075/132310987-02335fdc-c0c3-4dcf-a256-a32e034e1023.png)
 
 ## Interface
 
