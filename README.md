@@ -14,7 +14,7 @@ The application was developed in another [repository](https://github.com/FatalRu
 
 ## Publication in Go-Lab
 
-* The web version of the virtual laboratory was created in the process of cooperation with one of the biggest European specialists in multimedia education, [Ton de Jong](https://people.utwente.nl/a.j.m.dejong).
+* The web version of the virtual laboratory was created in the process of cooperation with a leading European specialist in multimedia education, [Ton de Jong](https://people.utwente.nl/a.j.m.dejong).
 * The web application was published on [Go-Lab](https://www.golabz.eu), a major international Internet platform focused on the introduction of innovative learning technologies using virtual online laboratories.
 * The Go-Lab publication is available [here](https://www.golabz.eu/lab/modeling-of-gyroscope-precession-and-nutation).
 	
